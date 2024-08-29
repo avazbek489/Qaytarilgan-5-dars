@@ -1,4 +1,5 @@
-@import "./fonts.css";
+@import "../css/fonts.css";
+@import "../css/global.css";
 
 * {
   margin: 0;
